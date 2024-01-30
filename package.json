@@ -5,7 +5,7 @@
   "homepage": "https://volodymyrkulieshov.github.io/ice_cream_htm_css_project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ten-go/"
+    "build": "parcel build src/*.html --public-url /ice_cream_htm_css_project/"
   },
   "repository": {
     "type": "git",
