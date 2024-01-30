@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Oleh-Semenenko.github.io/ten-go",
+  "homepage": "https://volodymyrkulieshov.github.io/ice_cream_htm_css_project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ten-go/"
